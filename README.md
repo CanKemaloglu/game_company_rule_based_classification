@@ -11,9 +11,13 @@ Bir oyun şirketi müşterilerinin bazı özelliklerini kullanarak seviye tabanl
 DEĞİŞKENLER
 
 PRICE – Müşterinin harcama tutarı
+
 SOURCE – Müşterinin bağlandığı cihaz türü
+
 SEX – Müşterinin cinsiyeti
+
 COUNTRY – Müşterinin ülkesi
+
 AGE – Müşterinin yaşı
 
 LEVEL BASED PERSONA TANIMLAMA, BASIT SEGMENTASYON ve KURAL TABANLI SINIFLANDIRMA
