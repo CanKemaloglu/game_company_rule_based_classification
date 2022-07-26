@@ -1,6 +1,6 @@
 # game_company_rule_based_classification
 
-Kural Tabanlı Sınıflandırma ile Potansiyel Müşteri Getirisi Hesaplama
+## Kural Tabanlı Sınıflandırma ile Potansiyel Müşteri Getirisi Hesaplama
 
 İş Problemi:
 
@@ -20,7 +20,7 @@ COUNTRY – Müşterinin ülkesi
 
 AGE – Müşterinin yaşı
 
-LEVEL BASED PERSONA TANIMLAMA, BASIT SEGMENTASYON ve KURAL TABANLI SINIFLANDIRMA
+## LEVEL BASED PERSONA TANIMLAMA, BASIT SEGMENTASYON ve KURAL TABANLI SINIFLANDIRMA
 
 Proje Amacı:
 
