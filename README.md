@@ -21,6 +21,9 @@ LEVEL BASED PERSONA TANIMLAMA, BASIT SEGMENTASYON ve KURAL TABANLI SINIFLANDIRMA
 Proje Amacı:
 
 *Persona kavramını düşünmek.
+
 *LEVEL BASED PERSONA TANIMLAMA: Kategori seviyelerine (Level) göre yeni müşteri tanımları yapabilmek.
+
 *BASIT SEGMENTASYON: qcut fonksiyonunu kullanarak basitçe yeni müşteri tanımlarını segmentlere ayırmak.
+
 *KURAL TABANLI SINIFLANDIRMA: Yeni bir müşteri geldiğinde bu müşteriyi segmentlere göre sınıflandırmak.
